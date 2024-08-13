@@ -19,7 +19,7 @@ Criado para o curso `Design Patterns com Java: Dos Clássicos (GoF) ao Spring Fr
 
 Este aplicativo é uma ferramenta simples e eficiente para obter informações meteorológicas de forma interativa através do terminal.
 
-<img src="https://raw.githubusercontent.com/gazolla/OpenWeatherApp/master/OpenWeather.gif" width="220">
+<img src="https://raw.githubusercontent.com/gazolla/weatherylocation/main/weather.gif" width="220">
 
 ### Uso
 
