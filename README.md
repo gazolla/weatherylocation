@@ -8,7 +8,6 @@ Criado para o curso `Design Patterns com Java: Dos Clássicos (GoF) ao Spring Fr
 
 - **Interação com o Usuário:** O aplicativo solicita ao usuário que insira o nome de uma cidade e exibe as condições climáticas atuais para a localização fornecida.
 - **Encerramento Simples:** O usuário pode sair do aplicativo a qualquer momento digitando "sair".
-- **Requisição de Dados Meteorológicos:** Utiliza o serviço `WeatherLocationService` para buscar e exibir os dados meteorológicos da cidade especificada.
 
 ## Fluxo de Uso
 
@@ -17,9 +16,12 @@ Criado para o curso `Design Patterns com Java: Dos Clássicos (GoF) ao Spring Fr
 3. **Exibição de Resultados:** As condições climáticas atuais para a cidade são exibidas ao usuário.
 4. **Opção de Encerramento:** O processo repete até que o usuário digite "sair" para encerrar o programa.
 
-Este aplicativo é uma ferramenta simples e eficiente para obter informações meteorológicas de forma interativa através do terminal.
 
 <img src="https://raw.githubusercontent.com/gazolla/weatherylocation/main/weather.gif" width="440">
+
+## Patterns
+
+- No aplicativo foram implementados os patterns Singleton e Facade.
 
 ### Uso
 
